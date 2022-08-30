@@ -1,22 +1,21 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace LanchesMac.Models;
-[Table("Categorias")]
-public class Categoria
+namespace LanchesMac.Models
 {
-    [Display(Name = "Nome")]
-    [Required(ErrorMessage = "Digite o nome!")]
-    [MaxLength(100, ErrorMessage = "Limite de caracter excedido!")]
-    public string categorianome { get; set; }
+    [Table("Categorias")]
+    public class Categoria
+    {
+        public int CategoriaId { get; set; }
+        [Display(Name = "Nome")]
+        [Required]
+        [StringLength(100)]
+        public string CategoriaNome { get; set; }
 
-    [Key]
-    [Range(1, 999999, ErrorMessage = "numero de registro excedido!")]
-    public int categoriaId { get; set; }
-
-    [Display(Name = "Descrição")]
-    [MaxLength(300, ErrorMessage = "Limite de caracter excedido!")]
-    public string descricao { get; set; }
-    public List<Lanche> lanches { get; set; }
-
+        [Required]
+        [StringLength(200)]
+        public string Descricao { get; set; }
+        public virtual List<Lanche> Lanches { get; set; }
+    }
 }

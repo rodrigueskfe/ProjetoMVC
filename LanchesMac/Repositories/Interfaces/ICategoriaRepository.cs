@@ -1,6 +1,7 @@
 ﻿using LanchesMac.Models;
+using System.Collections.Generic;
 
-namespace LanchesMac.Repository.Interface
+namespace LanchesMac.Repositories.Interfaces
 {
     public interface ICategoriaRepository
     {
