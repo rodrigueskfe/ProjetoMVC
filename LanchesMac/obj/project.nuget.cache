@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o5kKCkWduMVFSeBOkSGE/plMFpkP3vSCZ3FKPnFrKdAiPupXw0Og6+iqJjgQUiK8w/dQbxaltWsfi8zY3SjrcA==",
+  "dgSpecHash": "bEG6P8ujvsCHbHcCiVd8YR8pJQgxNJjivJ9wy1z2rIGpqyq7HEcismkL/eW9OC01ZyIRwBhsFUcslIAu4AorGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\ParOGitHub\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

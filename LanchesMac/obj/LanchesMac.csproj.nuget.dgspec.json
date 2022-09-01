@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\source\\repos\\LanchesMac\\LanchesMac\\LanchesMac.csproj": {}
+    "C:\\Users\\Gabriel\\Desktop\\ParOGitHub\\LanchesMac\\LanchesMac\\LanchesMac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\source\\repos\\LanchesMac\\LanchesMac\\LanchesMac.csproj": {
+    "C:\\Users\\Gabriel\\Desktop\\ParOGitHub\\LanchesMac\\LanchesMac\\LanchesMac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\ParOGitHub\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
         "projectName": "LanchesMac",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\ParOGitHub\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\LanchesMac\\LanchesMac\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\ParOGitHub\\LanchesMac\\LanchesMac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
